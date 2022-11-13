@@ -5,7 +5,7 @@ materials:
 
 esp32 dev kit (30 pin), oled 0.96 inch, sensor dht22, resistor 10k, breadboard, jumper cable
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/esp32-oled-dht22/blob/main/dht22.jpg)
 
 References:
 
